@@ -1,4 +1,4 @@
-export default {
+{
   "data": {
     "tracker": {
       "id": "868041d0-7cd8-11eb-8d0c-a58469b7ed93",
