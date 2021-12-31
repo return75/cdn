@@ -3,22 +3,12 @@
     "tracker": {
       "id": "53db3ca0-7e44-11eb-853c-4dead65fb9ab",
       "name": "FMB120-1756",
-      "IMEI": "359633105111756",
-      "category": {
-        "id": "477068d0-7cb3-11eb-afdc-c9f012750b1a",
-        "name": "حمل کننده‌ها"
-      },
       "description": "9108038309\n8998112900006198452"
     },
     "equipment": {
       "id": "456a4ac0-7cec-11eb-a67a-4d2702d1ceed",
-      "name": "بلاز 3422",
+      "name": "Truck 73",
       "technical_code": "3422",
-      "contractor": {
-        "id": "725c01a0-7cb3-11eb-998f-0b63325e1e34",
-        "name": "مبین",
-        "isActive": 1
-      },
       "category": {
         "id": "3a3437a0-63b3-11eb-8813-55f415d305a1",
         "name": "Truck",

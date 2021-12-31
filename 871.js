@@ -3,22 +3,11 @@
     "tracker": {
       "id": "6f1f1ad0-7e44-11eb-b6ea-cba720dcad78",
       "name": "FMB120-6365",
-      "IMEI": "359633104486365",
-      "category": {
-        "id": "477068d0-7cb3-11eb-afdc-c9f012750b1a",
-        "name": "حمل کننده‌ها"
-      },
-      "description": "9108038361\n8998112900006198451"
     },
     "equipment": {
       "id": "d6253620-be0d-11eb-b6b6-85e6756f414b",
-      "name": "گریدر 871",
+      "name": "Grader 19",
       "technical_code": "871",
-      "contractor": {
-        "id": "725c01a0-7cb3-11eb-998f-0b63325e1e34",
-        "name": "مبین",
-        "isActive": 1
-      },
       "category": {
         "id": "3a387f90-63b3-11eb-a520-51111d106acb",
         "name": "Grader (گریدر)",

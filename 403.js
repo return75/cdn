@@ -3,22 +3,11 @@
     "tracker": {
       "id": "00bd7720-7ce0-11eb-9056-63f88ba7112c",
       "name": "FMB120-4904",
-      "IMEI": "359633105574904",
-      "category": {
-        "id": "477068d0-7cb3-11eb-afdc-c9f012750b1a",
-        "name": "حمل کننده‌ها"
-      },
-      "description": "9108038012\n8998112900006198445"
     },
     "equipment": {
       "id": "115beba0-7ce0-11eb-8455-a5ef0221e4a8",
-      "name": "بلاز 403",
-      "technical_code": "P403",
-      "contractor": {
-        "id": "725c01a0-7cb3-11eb-998f-0b63325e1e34",
-        "name": "مبین",
-        "isActive": 1
-      },
+      "name": "Truck 98",
+      "technical_code": "403",
       "category": {
         "id": "3a3437a0-63b3-11eb-8813-55f415d305a1",
         "name": "Truck",

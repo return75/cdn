@@ -12,8 +12,8 @@
     },
     "equipment": {
       "id": "5534c950-7ce1-11eb-9ab0-e10b7e24f050",
-      "name": "بلاز 406",
-      "technical_code": "P406",
+      "name": "Truck 38",
+      "technical_code": "406",
       "contractor": {
         "id": "725c01a0-7cb3-11eb-998f-0b63325e1e34",
         "name": "مبین",

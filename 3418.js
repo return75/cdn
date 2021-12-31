@@ -3,22 +3,11 @@
         "tracker": {
             "id": "37a722b0-7ce2-11eb-926f-55f9eb7d061d",
             "name": "FMB120-1178",
-            "IMEI": "359633105031178",
-            "category": {
-                "id": "477068d0-7cb3-11eb-afdc-c9f012750b1a",
-                "name": "حمل کننده‌ها"
-            },
-            "description": "9108038097\n8998112900006198447"
         },
         "equipment": {
             "id": "ae6e2f90-7ce2-11eb-a281-fb7d86cfc0b6",
-            "name": "بلاز 3418",
+            "name": "Truck 30",
             "technical_code": "3418",
-            "contractor": {
-                "id": "725c01a0-7cb3-11eb-998f-0b63325e1e34",
-                "name": "مبین",
-                "isActive": 1
-            },
             "category": {
                 "id": "3a3437a0-63b3-11eb-8813-55f415d305a1",
                 "name": "Truck",

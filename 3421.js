@@ -3,16 +3,10 @@
     "tracker": {
       "id": "2ec38910-7cda-11eb-aeb2-fd21b6418588",
       "name": "FMB120-7924",
-      "IMEI": "359633105647924",
-      "category": {
-        "id": "477068d0-7cb3-11eb-afdc-c9f012750b1a",
-        "name": "حمل کننده‌ها"
-      },
-      "description": "9108037672\n8998112900006198441"
     },
     "equipment": {
       "id": "cdfba380-7cd8-11eb-9555-4de3f4933d2f",
-      "name": "بلاز 3421",
+      "name": "Truck 45",
       "technical_code": "3421",
       "contractor": {
         "id": "725c01a0-7cb3-11eb-998f-0b63325e1e34",
