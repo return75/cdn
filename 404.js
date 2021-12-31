@@ -2,7 +2,13 @@
   "data": {
     "tracker": {
       "id": "17df3440-7ce4-11eb-8bf5-358bfb22f973",
-      "name": "FMB120-0289",
+          "name": "FMB120-0289",
+          "IMEI": "359633104440289",
+          "category": {
+        "id": "477068d0-7cb3-11eb-afdc-c9f012750b1a",
+            "name": "حمل کننده‌ها"
+      },
+      "description": "9108038099\n8998112900006198448"
     },
     "equipment": {
       "id": "bfaa2da0-7ce2-11eb-a7a6-ab80dcf46941",

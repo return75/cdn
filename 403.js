@@ -2,7 +2,13 @@
   "data": {
     "tracker": {
       "id": "00bd7720-7ce0-11eb-9056-63f88ba7112c",
-      "name": "FMB120-4904",
+          "name": "FMB120-4904",
+          "IMEI": "359633105574904",
+          "category": {
+        "id": "477068d0-7cb3-11eb-afdc-c9f012750b1a",
+            "name": "حمل کننده‌ها"
+      },
+      "description": "9108038012\n8998112900006198445"
     },
     "equipment": {
       "id": "115beba0-7ce0-11eb-8455-a5ef0221e4a8",
