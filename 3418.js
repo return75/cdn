@@ -12,7 +12,7 @@
         },
         "equipment": {
             "id": "ae6e2f90-7ce2-11eb-a281-fb7d86cfc0b6",
-            "name": "بلاز 3418",
+            "name": "Komatso 3418",
             "technical_code": "3418",
             "contractor": {
                 "id": "725c01a0-7cb3-11eb-998f-0b63325e1e34",
